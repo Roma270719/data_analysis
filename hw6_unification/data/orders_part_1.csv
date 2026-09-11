@@ -1,0 +1,50 @@
+InvoiceNo,CustomerID,Description,Quantity,UnitPrice,Category,Discount,PaymentMethod
+INV100290,01eac1fb-42ac-4ad4-afd6-fe01d3e2dcf5,USB-C Cable,8.0,65.59,Accessories,0.22,Credit Card
+INV100278,0d88c95d-0f2f-4e4b-98c4-427c91125f7d,Gaming Keyboard,2.0,14.44,Gaming,0.07,paypal
+INV100561,09c9ad28-738f-4e6c-b61b-6eda53404915,Gaming Keyboard,10.0,19.09,Gaming,0.24,PayPal
+INV100542,01eac1fb-42ac-4ad4-afd6-fe01d3e2dcf5,Power Bank,6.0,6.27,Accessories,0.06,Credit Card
+INV100787,08508316-a3be-4bcd-b6b7-91145174a8ba,Power Bank,2.0,67.56,Accessories,0.15,credit card
+INV100899,04e44f80-9f4e-4fc9-a45c-a81097d07a02,Laptop Stand,10.0,17.9,Office,0.25,PayPal
+INV100475,03020226-ebdd-49c3-a545-1d2c01a91620,Laptop Stand,7.0,8.11,Office,0.1,PayPal
+INV100724,10bf93a6-29de-4f41-afd0-e62610ac2068,Bluetooth Speaker,6.0,10.95,Electronics,0.16,Bank Transfer
+INV100144,0a0ad13a-2fac-484f-b54c-9607340f0524,Wireless Mouse,7.0,54.45,Electronics,0.05,Bank Transfer
+INV100766,045e6cd9-0bd9-4b88-808b-10c5a4a13d0d,Gaming Keyboard,1.0,56.38,Gaming,0.25,PayPal
+INV100681,09c9ad28-738f-4e6c-b61b-6eda53404915,Bluetooth Speaker,1.0,54.74,Electronics,0.2,paypal
+INV100280,0145193c-cf85-436e-92cc-17cb5b0d04eb,Laptop Stand,4.0,18.91,Office,0.26,PayPal
+INV100780,0e6164db-1030-47a5-bcc2-dfea819668af,HDMI Adapter,2.0,22.54,Accessories,0.27,PayPal
+INV100329,07a005e9-45b1-446b-a374-c8490f7c5dfa,Gaming Keyboard,2.0,48.0,Gaming,0.15,Bank Transfer
+INV100511,01eac1fb-42ac-4ad4-afd6-fe01d3e2dcf5,USB-C Cable,8.0,24.05,Accessories,0.07,PayPal
+INV100635,0f6160e6-f9ce-457b-a231-46a0f7cd3a22,Wireless Mouse,3.0,61.76,Electronics,0.29,paypal
+INV100594,04e44f80-9f4e-4fc9-a45c-a81097d07a02,LED Monitor,4.0,67.82,Electronics,0.1,Bank Transfer
+INV100234,01eac1fb-42ac-4ad4-afd6-fe01d3e2dcf5,HDMI Adapter,4.0,45.39,Accessories,0.28,Credit Card
+INV100680,0818064c-782b-4b0e-9ceb-1517653713f9,Wireless Mouse,5.0,77.68,Electronics,0.18,paypal
+INV100154,0145193c-cf85-436e-92cc-17cb5b0d04eb,LED Monitor,10.0,63.82,Electronics,0.03,paypal
+INV100066,10bf93a6-29de-4f41-afd0-e62610ac2068,Power Bank,6.0,77.35,Accessories,0.2,Bank Transfer
+INV100149,0f4490c6-673c-4a29-a1fa-59dfebeb7714,Laptop Stand,5.0,32.34,Office,0.07,credit card
+INV100308,0391f9c8-ce5d-43f2-88cd-bf4b8a6673a4,Wireless Mouse,6.0,27.48,Electronics,0.3,Bank Transfer
+INV100383,0391f9c8-ce5d-43f2-88cd-bf4b8a6673a4,HDMI Adapter,2.0,81.03,Accessories,0.21,Credit Card
+INV100673,09bffaf1-15ef-465d-9204-22e5f16c6f6e,HDMI Adapter,2.0,56.69,Accessories,0.27,Bank Transfer
+INV100072,03020226-ebdd-49c3-a545-1d2c01a91620,Wireless Mouse,8.0,34.7,Electronics,0.1,Bank Transfer
+INV100148,0145193c-cf85-436e-92cc-17cb5b0d04eb,USB-C Cable,4.0,40.27,Accessories,0.15,paypal
+INV100096,0f929cf8-ca95-466b-8367-556d34014143,Laptop Stand,9.0,33.08,Office,0.1,Credit Card
+INV100283,01eac1fb-42ac-4ad4-afd6-fe01d3e2dcf5,Gaming Keyboard,7.0,89.6,Gaming,0.07,PayPal
+INV100100,0602013d-f63b-4a5a-b212-19a5562ad344,HDMI Adapter,1,7.45,Accessories,0.11,paypal
+INV100932,08508316-a3be-4bcd-b6b7-91145174a8ba,Wireless Mouse,5.0,102.01,Electronics,0.03,credit card
+INV100816,0d88c95d-0f2f-4e4b-98c4-427c91125f7d,LED Monitor,10.0,43.9,Electronics,0.06,PayPal
+INV100617,045e6cd9-0bd9-4b88-808b-10c5a4a13d0d,Laptop Stand,9.0,40.29,Office,0.28,credit card
+INV100664,09c9ad28-738f-4e6c-b61b-6eda53404915,Laptop Stand,7.0,13.2,Office,0.25,paypal
+INV100519,09bffaf1-15ef-465d-9204-22e5f16c6f6e,HDMI Adapter,4.0,86.15,Accessories,0.2,credit card
+INV100790,045e6cd9-0bd9-4b88-808b-10c5a4a13d0d,LED Monitor,5.0,55.71,Electronics,0.24,Credit Card
+INV100555,0f4490c6-673c-4a29-a1fa-59dfebeb7714,USB-C Cable,10.0,7.93,Accessories,0.02,credit card
+INV100042,07a005e9-45b1-446b-a374-c8490f7c5dfa,Power Bank,9.0,74.75,Accessories,0.04,credit card
+INV100064,0a0ad13a-2fac-484f-b54c-9607340f0524,Laptop Stand,8.0,17.68,Office,0.02,paypal
+INV100020,07a005e9-45b1-446b-a374-c8490f7c5dfa,Power Bank,8.0,84.05,Accessories,0.12,Bank Transfer
+INV100393,0818064c-782b-4b0e-9ceb-1517653713f9,Bluetooth Speaker,6.0,109.19,Electronics,0.16,Credit Card
+INV100606,0ce0c94e-d220-46cd-833a-2f864ad1f56f,Power Bank,1.0,59.71,Accessories,0.17,Bank Transfer
+INV100282,03020226-ebdd-49c3-a545-1d2c01a91620,USB-C Cable,6.0,57.71,Accessories,0.09,credit card
+INV100146,04e44f80-9f4e-4fc9-a45c-a81097d07a02,Bluetooth Speaker,9.0,47.91,Electronics,0.04,paypal
+INV100219,04e44f80-9f4e-4fc9-a45c-a81097d07a02,Gaming Keyboard,9.0,63.04,Gaming,0.05,PayPal
+INV100501,10bf93a6-29de-4f41-afd0-e62610ac2068,Wireless Mouse,4.0,87.56,Electronics,0.07,Bank Transfer
+INV100107,09bffaf1-15ef-465d-9204-22e5f16c6f6e,LED Monitor,10.0,80.41,Electronics,0.16,PayPal
+INV100520,037f2615-2d98-4d9d-ba88-1aa37263dc0e,HDMI Adapter,6.0,34.72,Accessories,0.28,credit card
+INV100834,0ce0c94e-d220-46cd-833a-2f864ad1f56f,Wireless Mouse,2.0,37.45,Electronics,0.21,Credit Card
