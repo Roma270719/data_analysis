@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <product id="1">
+        <name>Lenovo IdeaPad 3 Laptop</name>
+        <category>Electronics</category>
+        <price currency="USD">599.90</price>
+        <availability>In stock</availability>
+        <description>15.6" Full HD, AMD Ryzen 5, 8GB RAM, 512GB SSD</description>
+    </product>
+
+    <product id="2">
+        <name>Samsung Galaxy S24 Smartphone</name>
+        <category>Electronics</category>
+        <price currency="USD">899.90</price>
+        <availability>Pre-order</availability>
+        <description>6.1" AMOLED, 128GB storage, 5G, triple camera</description>
+    </product>
+
+    <product id="3">
+        <name>Sony WH-1000XM5 Headphones</name>
+        <category>Audio</category>
+        <price currency="USD">349.90</price>
+        <availability>In stock</availability>
+        <description>Wireless, noise cancelling, up to 30 hours battery life</description>
+    </product>
+</catalog>
